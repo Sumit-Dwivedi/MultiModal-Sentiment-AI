@@ -1,10 +1,8 @@
-![alt text](thumbnail.png)
-
-[https://youtu.be/Myo5kizoSk0](https://youtu.be/Myo5kizoSk0)
-
 ## Overview
 
-Hi 🤙 In this video, you'll learn how to build a multimodal AI model using PyTorch. The model will accept a video as its input, and predict its sentiment and emotion. When training the model, you'll build features like text, video, and audio encoding, multimodal fusion, and emotion and sentiment classification. After training and deploying the model, you'll build a SaaS around your trained model, where users can run inference on their videos through your API. You'll set up invocation of the deployed model with SageMaker Endpoints, and manage the monthly quotas users have. The SaaS will be built with technologies such as Next.js, React, Tailwind, and Auth.js and is based off of the T3 Stack. You'll be able to build along with me from start to finish.
+In this project, I built a model that takes a video as input and predicts its sentiment and emotion. During the training phase, I worked on extracting and engineering features such as text, video, and audio encodings. I then applied multimodal fusion techniques and trained the model for emotion and sentiment classification.
+After training and deploying the model, I created a SaaS platform around it, allowing users to run inference on their videos through an API I set up. I used AWS SageMaker Endpoints for model invocation and implemented logic to manage users' monthly usage quotas.
+The SaaS application was built using modern web technologies like Next.js, React, Tailwind CSS, and Auth.js, following the T3 Stack. You can follow along with me throughout the entire process—from model training and deployment to building and launching the full SaaS platform.
 
 Features:
 
