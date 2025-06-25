@@ -31,8 +31,8 @@ Follow these steps to install and set up the SaaS project:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-video-sentiment-saas.git
-cd ai-video-sentiment-saas
+git clone https://github.com/yourusername/MultiModal-Sentiment-AI.git
+cd MultiModal-Sentiment-AI
 ```
 
 2. Install dependencies
